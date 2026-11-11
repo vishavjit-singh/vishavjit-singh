@@ -1,8 +1,10 @@
 <h1>Hi, I'm Vishavjit Singh Saini</h1>
 
-**Data Engineer at Opala.** I build data pipelines and the ML systems that run on them, covering ingestion, quality gates, warehousing, model training and serving.
+**Data Engineer at Opala.** I build data pipelines on Azure and Databricks, test the systems that consume them, and ship the ML services that run on top. My work is validation-first, from bronze-layer ingestion to API regression suites.
 
-- 🛠️ Currently working on data engineering at **Opala** (since July 2026)
+- 🛠️ **Opala** (since July 2026)
+  - Azure Data Lake → Databricks (PySpark, SQL) → Delta Lake pipelines with layer-by-layer data-quality gates and governed handling of sensitive data
+  - Test design and automation for a healthcare rules engine (CRD workflow): full test plan, 77 cases in Jira/Xray, and a pytest regression suite run against deployed Azure environments. Found and fixed two security defects along the way
 - 🤖 Before that: AI/ML Engineer at WE RNS IT Solutions. I built face-recognition attendance and agentic n8n automations there
 - 🧱 Software Engineer at Bricleweb Infotech: full-stack platform with an AI counsellor, payments and Redis caching
 - 🔬 AI/ML intern at PG Tech: MLOps pipelines with MLflow and DVC, plus image forgery detection
@@ -24,6 +26,10 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
+![Delta Lake](https://img.shields.io/badge/Delta_Lake-00ADD4?style=flat-square&logo=delta&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
@@ -34,6 +40,12 @@
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 ![ONNX](https://img.shields.io/badge/ONNX_Runtime-005CED?style=flat-square&logo=onnx&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white)
+
+**Testing & QA**
+![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira_%2F_Xray-0052CC?style=flat-square&logo=jira&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Docker Compose](https://img.shields.io/badge/Docker_Compose-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 **MLOps, APIs & automation**
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
