@@ -63,6 +63,7 @@
 | Project | What it does | Stack |
 |---|---|---|
 | [retail-sales-data-pipeline](https://github.com/vishavjit-singh/retail-sales-data-pipeline) | Incremental ETL into a star-schema warehouse with a data-quality gate, quarantine table and transactional loads | Python · pandas · SQL · Docker · GitHub Actions |
+| [realtime-clickstream-streaming](https://github.com/vishavjit-singh/realtime-clickstream-streaming) | Kafka → Spark Structured Streaming pipeline with watermarks, deduplication, a dead-letter table and session windows into Parquet | Kafka · Spark · Parquet · Docker Compose |
 | [Crop_Disease_Prediction](https://github.com/vishavjit-singh/Crop_Disease_Prediction) | Two-stage CNN API: identifies corn, wheat or rice, then diagnoses the leaf disease | TensorFlow · FastAPI · Docker |
 | [vehicle-price-prediction](https://github.com/vishavjit-singh/vehicle-price-prediction) | Single scikit-learn pipeline with cross-validated model selection (holdout R² 0.77) | scikit-learn · pandas · Docker |
 | [portfolio](https://github.com/vishavjit-singh/portfolio) | Interactive portfolio site with a live pipeline animation and queryable projects | HTML · CSS · JavaScript |
