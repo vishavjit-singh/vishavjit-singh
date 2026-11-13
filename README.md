@@ -11,7 +11,7 @@
 - 🎓 B.Tech, Computer Science & Engineering, Punjabi University, Patiala
 - 📫 singhvishavjit03@gmail.com · Hoshiarpur, Punjab, India
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-vishavjit--saini.pages.dev-2747d6?style=for-the-badge)](https://vishavjit-saini.pages.dev/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-vishavjit--singh.pages.dev-2747d6?style=for-the-badge)](https://vishavjit-singh.pages.dev/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishavjit-singh-7011211ab/)
 [![Email](https://img.shields.io/badge/Email-singhvishavjit03-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:singhvishavjit03@gmail.com)
 
